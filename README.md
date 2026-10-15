@@ -1,4 +1,4 @@
-# Retail Sales Analysis: Data Preprocessing and Basic EDA
+# Retail Sales Analysis: Data Preprocessing and EDA
 
 A Python notebook that cleans a 10,000-row retail transactions dataset and explores it with NumPy, Pandas, Matplotlib and Seaborn. Built as the Month 1 project (Python basics and data manipulation) of a Data Science program.
 
